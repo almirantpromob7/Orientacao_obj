@@ -1,7 +1,5 @@
 # Orientacao_obj
 
-Aqui terá o exemplo resolvido de formas diferentes 
-
 Exemplo de Implementação: Fazer um programa para ler dados de um produto em estoque (nome, preço, e quantidade no estoque). 
 1) Mostrar os dados do produto. 
 2) Realizar uma entrada no estoque e mostrar novamente os dados do produto. 
